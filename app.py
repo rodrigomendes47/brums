@@ -24,9 +24,6 @@ st.set_page_config(
 # Injetar CSS customizado para forçar algumas cores e fontes
 st.markdown(f"""
     <style>
-    .stApp {{
-        background-color: #ffffff;
-    }}
     .css-1d391kg, .css-1dp5vir {{
         background-color: {PRIMARY_COLOR};
     }}
